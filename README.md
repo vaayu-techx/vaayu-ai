@@ -1,2 +1,3 @@
 # vaayu-ai
-AI services for mission autonomy
+AI services for autonomous UAV missions
+
